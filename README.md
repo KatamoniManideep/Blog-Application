@@ -27,7 +27,7 @@ A modern blog application built with Vite, React, and Tailwind CSS featuring rol
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/KatamoniManideep/Blog-Application.git
 cd blog-application
 
 # Install dependencies
