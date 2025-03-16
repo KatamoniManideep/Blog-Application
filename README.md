@@ -1,4 +1,4 @@
-# Blog App
+# Blog Application
 
 A modern blog application built with Vite, React, and Tailwind CSS featuring role-based access control and comprehensive content management.
 
